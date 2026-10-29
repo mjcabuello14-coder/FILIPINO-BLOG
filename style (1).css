@@ -1,0 +1,103 @@
+<style>
+@media only screen and (max-width: 767px) {
+body {
+background-image: url("https://scontent.fmnl3-2.fna.fbcdn.net/v/t1.15752-9/848169138_1619583269649741_7232873380220950640_n.png?stp=dst-png_s640x640&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGbEJAHWQ2zo-fMCL0b2FoESkGUYtwQQ2xKQZRi3BBDbD1LO2lRp44LaLPm2rjuwgn1J4dlm22q5h6B_fhSzJuF&_nc_ohc=2XGo8krxXbQQ7kNvwF30q15&_nc_oc=AdqoE15ZcluUWiAdptiZT_IxElcn7xcgy235pIcogJEciJyFjdWGnLa3C8ysCXVRbyQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl3-2.fna&_nc_ss=7a22e&oh=03_Q7cD6gGXovTW3d8y1-dF0_oPbF9JJzMY7jF2gINdrOecR5KF9g&oe=6AFC25A5");
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+background-color: #fdf3df;
+font-family: "Courier New", Courier, Monospace;
+color: #17365d;
+margin: 0;
+}
+}
+
+body {
+@media only screen and (max-width: 1025px) {
+background-image: url("https://scontent.fmnl17-6.fna.fbcdn.net/v/t1.15752-9/848597996_1074605372221311_6057407926819680694_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&nc_eui2=AeGuQDC_Nx9nvFdPIffttk2P9US6yMORj131RLrIw5GPXbSjUzHDHPbM06GKTvQ-e42Ptm7dP-NiU8cuPkfy9nC&_nc_ohc=DjKOg-epY4kQ7kNvwH6RuBd&_nc_oc=AdqGKUnDd31EM6bbkfV9giC_YZUZ8sJ_6nFBQxG3KaF9ihOQQLUQUYaaI6YieY5qk5w&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_ss=7b2a8&oh=03_Q7cD6gHL3fcpmcY7hQNX54cXHuoLPN2Txh21SBvNPrSjX_AUMg&oe=6AFBF6C0");
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+background-color: #fdf3df;
+font-family: "Courier New", Courier, Monospace;
+color: #17365d;
+margin: 0;
+}
+}
+
+#banner {
+width: 90%;
+height: 25px;
+margin: auto;
+background: linear-gradient(to bottom,
+#0038a8 50%,
+#ce1126 50%);
+border-style: solid;
+border-color: #fcd116;
+border-width: 2px;
+}
+
+#title {
+color: #0038a8;
+text-align: center;
+font-size: 40px;
+}
+
+#bay {
+text-align: center;
+color: #ce1126;
+font-size: 25px;
+}
+
+#phil {
+text-align: center;
+padding: 20px;
+border-style: solid;
+border-color: #fcd116;
+border-width: 2px;
+background-color: #fffaf0;
+width: 85%;
+margin: auto;
+font-size: 18px;
+line-height: 1.6;
+}
+
+table {
+width: 90%;
+margin: auto;
+border-spacing: 0 20px;
+}
+
+td {
+width: 50%;
+padding: 15px;
+background-color: #fffaf0;
+text-align: left;
+line-height: 1.6;
+border-style: solid;
+border-color: #e5c46b;
+border-width: 1px;
+}
+
+img {
+max-width: 100%;
+}
+
+h2 {
+color: #ce1126;
+text-align: center;
+font-family: "Lobster Two", cursive;
+}
+
+h3 {
+color: #0038a8;
+text-align: center;
+font-family: "Lobster Two", cursive;
+}
+
+p {
+font-size: 17px;
+text-align: left;
+font-family: "Courier New", Courier, Monospace;
+}
+</style>
